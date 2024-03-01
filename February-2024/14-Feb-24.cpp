@@ -3,7 +3,7 @@
 
 int main(){
 	int tc;
-    cin >> tc;
+    cin>>tc;
     while(tc--){
         int V, E;
         cin >> V >> E;
